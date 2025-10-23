@@ -6,7 +6,7 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_map">Map</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="add_new_geozone_desc">add new geofence</string>
+    <string name="menu_geozones">Geozones</string>
+    <string name="menu_events">Events</string>
+    <string name="add_new_geozone_desc">add new geozone</string>
 </resources>

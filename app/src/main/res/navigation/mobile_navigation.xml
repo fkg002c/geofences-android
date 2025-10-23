@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_map" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.fkg002c.geofences.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_geozones"
+        android:name="com.fkg002c.geofences.ui.geozones.GeozonesFragment"
+        android:label="@string/menu_geozones"
+        tools:layout="@layout/fragment_geozones" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.fkg002c.geofences.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_events"
+        android:name="com.fkg002c.geofences.ui.events.EventsFragment"
+        android:label="@string/menu_events"
+        tools:layout="@layout/fragment_events" />
 </navigation>
